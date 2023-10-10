@@ -1,0 +1,15 @@
+Properties of MSTs
+
+An MST of a given graph G can be
+constructed by Greedy Algorithms
+
+Crucial Properties:
+cut property
+Let e be an edge of minimum cost in
+a cut C.
+Then there is an MST that contains e
+
+Cycle property
+an edge of maximal cost in any
+cycle does not need to be considered
+for computing an MST

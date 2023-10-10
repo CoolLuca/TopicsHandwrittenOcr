@@ -1,0 +1,14 @@
+Dynamic Programming
+Most problems involve optimisation, ie finding
+a soln that maximises/minimises some function
+Algorithms for optimisation problems require
+proof that they return the best possible solutions.
+Greedy algorithms make the best local decision
+at each step & are efficient but dont find
+the global optimum
+Exaustive search try all possiblity & select
+the best/most optimum, but are super slow
+
+Dynamic programming involve designing algorithms
+that systematically store all possibilities
+(guarentee correctness) while storing results

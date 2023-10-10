@@ -1,0 +1,4 @@
+In practice worst-case is most usefull
+as it eliminates complexities of average case
+The time complexities define a numerical function
+eg. y=x^2 or y = logx
