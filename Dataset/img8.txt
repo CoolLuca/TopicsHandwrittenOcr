@@ -1,0 +1,5 @@
+Extra  Stuff for comp sys
+Temporal Locality
+- instructions and data tend to get used in the near future
+= caches that replace the least recently used content may 
+work well
