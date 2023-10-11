@@ -1,0 +1,5 @@
+The parcel has a plastic collision with the trolley
+surface (i.e. does not bounce) and proceeds to slide
+along the trolley's top surface.
+No kinetic friction exists between the trolley surface
+and the parcel.
