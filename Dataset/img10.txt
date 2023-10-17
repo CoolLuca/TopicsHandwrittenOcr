@@ -1,0 +1,9 @@
+Observation:
+Binary search trees can get imbalanced
+when applying insert and/or remove
+operations
+
+Idea:
+whenever a subtree rooted at node v
+gets imbalanced, apply operations that
+balance it out in time O(logn)
